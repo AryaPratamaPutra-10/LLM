@@ -21,7 +21,7 @@
     </ul>
   </li>
   <li>
-    <strong>Interactive WatsonX Streamlit Application (<a href="https://github.com/AryaPratamaPutra-10/LLM/blob/main/LLM/demo_wml_api_with_streamlit.py">demo_wml_api_with_streamlit.py</a>) 💻</strong> - 
+    <strong>Interactive WatsonX Streamlit Application (<a href="https://github.com/AryaPratamaPutra-10/LLM/blob/main/LLM/demo_wml_api_with_streamlit.py">demo_wml_api_with_streamlit.py</a>) </strong> - 
     Showcases a web-based interface using Streamlit to interact with WatsonX.ai LLMs. Features include:
     <ul>
       <li>Building dynamic prompts with user-provided questions and contextual examples.</li>
