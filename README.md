@@ -9,4 +9,25 @@
   <img src="https://img.shields.io/badge/dotenv-%2300C7B7?style=for-the-badge&logo=dotenv&logoColor=white">
 </div>
 
+<h2>Documentation</h2>
+<ol>
+  <li>
+    <strong>Demo WatsonX API Integration (<a href="https://github.com/AryaPratamaPutra-10/LLM/blob/main/LLM/demo_wml_api.py">demo_wml_api.py</a>) </strong> - 
+    Demonstrates how to integrate and invoke IBM WatsonX.ai Large Language Models (LLMs) through Python. Includes examples of:
+    <ul>
+      <li>Extracting key factors from customer complaints using predefined prompts.</li>
+      <li>Answering general knowledge questions with dynamic model parameters like decoding methods and token limits.</li>
+      <li>Utilizing REST API for LLM invocation with detailed configuration for prompts and responses.</li>
+    </ul>
+  </li>
+  <li>
+    <strong>Interactive WatsonX Streamlit Application (<a href="https://github.com/AryaPratamaPutra-10/LLM/blob/main/LLM/demo_wml_api_with_streamlit.py">demo_wml_api_with_streamlit.py</a>) 💻</strong> - 
+    Showcases a web-based interface using Streamlit to interact with WatsonX.ai LLMs. Features include:
+    <ul>
+      <li>Building dynamic prompts with user-provided questions and contextual examples.</li>
+      <li>Real-time interaction with LLMs for text generation and question answering.</li>
+      <li>Streamlined UI for asking questions, clearing inputs, and displaying model responses.</li>
+    </ul>
+  </li>
+</ol>
 
